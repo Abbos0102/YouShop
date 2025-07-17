@@ -7,7 +7,7 @@ CHANNEL_ID = "@you_shopp"
 GROUP_LINK = "https://t.me/youshop_support"
 
 # Mahsulotlar ro'yxati
-PRODUCTS = [bu
+PRODUCTS = [bu]
     {"name": "iPhone 14 Pro", "price": "$999", "desc": "128GB, Deep Purple"},
     {"name": "AirPods Pro 2", "price": "$249", "desc": "MagSafe qutisi bilan"},
     {"name": "YSL Parfyum", "price": "$120", "desc": "Libre Intense, 90ml"},
